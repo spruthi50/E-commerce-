@@ -10,21 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * pg8.java
- *
- * Created on Nov 30, 2016, 12:05:53 PM
- */
-
-/**
- *
- * @author system29
- */
 public class pg8 extends javax.swing.JFrame {
 
     /** Creates new form pg8 */
