@@ -1,18 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * pg10.java
- *
- * Created on Dec 6, 2016, 11:30:51 AM
- */
-
-/**
- *
- * @author system22
- */
 public class pg10 extends javax.swing.JFrame {
 
     /** Creates new form pg10 */
