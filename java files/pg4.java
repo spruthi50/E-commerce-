@@ -6,21 +6,7 @@ import javax.swing.JOptionPane;
 
 
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * pg4.java
- *
- * Created on Nov 30, 2016, 10:03:31 AM
- */
-
-/**
- *
- * @author system29
- */
 public class pg4 extends javax.swing.JFrame {
 
     /** Creates new form pg4 */
