@@ -6,21 +6,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * pg3.java
- *
- * Created on Nov 30, 2016, 9:19:23 AM
- */
-
-/**
- *
- * @author system29
- */
 public class pg3 extends javax.swing.JFrame {
 
     /** Creates new form pg3 */
