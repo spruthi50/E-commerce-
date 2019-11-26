@@ -1,18 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * page1.java
- *
- * Created on Dec 3, 2016, 8:02:20 AM
- */
-
-/**
- *
- * @author system29
- */
 public class page2 extends javax.swing.JFrame {
 
     /** Creates new form page1 */
