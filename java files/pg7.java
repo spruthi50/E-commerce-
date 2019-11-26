@@ -7,21 +7,7 @@ import javax.swing.JOptionPane;
 
 
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/*
- * pg7.java
- *
- * Created on Nov 30, 2016, 10:52:40 AM
- */
-
-/**
- *
- * @author system29
- */
 public class pg7 extends javax.swing.JFrame {
 
     /** Creates new form pg7 */
